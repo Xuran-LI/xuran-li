@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xuran Li / Site Title"
+title                    : "Xuran Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description: "Researcher in Trustworthy Machine Learning"
