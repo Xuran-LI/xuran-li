@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xuran Li / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description: "Researcher in Trustworthy Machine Learning"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -28,7 +28,7 @@ author:
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email: "lixuran93@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
